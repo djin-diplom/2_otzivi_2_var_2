@@ -96,8 +96,8 @@ $mainContent = str_replace('Публикации</a>', '</a>', $mainContent  );
 $mainContent = str_replace('это интересно</a>', '</a>', $mainContent  );
 
 $mainContent = str_replace('</title>', '</title> 
-<meta name="yandex-verification" content="80a43da532801369" /> 
-<meta name="google-site-verification" content="GcsRvOZwbGGTjMazazkuW89BRHJVLRegysoA5XjM_tw" />', $mainContent  );
+<meta name="yandex-verification" content="3e2a848a6520cb98" />
+<meta name="google-site-verification" content="9g_kdGXJJ93pKqycxRskoayroi-porC7bRaKAnOkBLo" />', $mainContent  );
 //$mainContent = str_replace('gsgdfdfd', 'www.rosdiplom.ru',  $mainContent  );
 //$mainContent = str_replace('qoferiid','mobile-title" href="http://studotzyv.ru/"', $mainContent  );
 $mainContent = str_replace('src="/wp-content/','src="'.$donor_name.'/wp-content/', $mainContent  );
