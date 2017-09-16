@@ -18,6 +18,9 @@ $REQUEST_URI = $_SERVER['REQUEST_URI'];
 $REQUEST_URI = $main_name.$REQUEST_URI;
 
 $REQUEST_URI = str_replace($main_name, $donor_name, $REQUEST_URI );
+
+$REQUEST_URI = str_replace( '74/rosdiplom', '', $REQUEST_URI  );//new
+
 $contentTitle = str_replace('knowbaza', 'rosdiplom', $REQUEST_URI );
 
 //echo $contentTitle;
