@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /raiting/74/znaniumbaza/
+Allow: /raiting/74/knowbaza/
 Disallow: /
 Host: vivadiplom.ru
