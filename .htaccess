@@ -1,3 +1,6 @@
+Redirect 301 /raiting/74/knowbaza/feed/ http://vivadiplom.ru/raiting/74/knowbaza
+
+
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
